@@ -12,7 +12,7 @@ const CONFIG = {
     btnNo: 'Hông yêu',
     question: 'Nói anh nghe lý do',
     btnReply: 'Gửi anh yêu',
-    reply: 'Yêu thì yêu mà không yêu thì yêu',
+    reply: 'Anh là chàng ngốc hay dỗi lại ấm áp',
     mess: 'Anh biết mà . Làm bạn gái anh nhé',
     messDesc: 'Big-Eyes Girl',
     btnAccept: 'Em đồng ý',
