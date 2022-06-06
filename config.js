@@ -10,11 +10,10 @@ const CONFIG = {
     desc: 'Phải chăng anh đã yêu em từ lúc thấy nụ cười ấy ',
     btnYes: 'Yêu anh',
     btnNo: 'Hông yêu',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
+    question: 'Nói anh nghe lý do',
+    btnReply: 'Gửi anh yêu',
     reply: 'Yêu thì yêu mà không yêu thì yêu',
-    mess: 'Mình biết mà . Yêu bạn nhiều nhiều',
-    messDesc: 'Làm bạn gái anh nha',
+    mess: 'Anh biết mà . Làm bạn gái anh nhé',
+    messDesc: 'Big-Eyes Girl',
     btnAccept: 'Em đồng ý',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
