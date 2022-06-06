@@ -6,7 +6,7 @@ const CONFIG = {
     Bao tình cảm của anh
     Chỉ dành cho em đó`,
     btnIntro: 'Love You',
-    title: 'Phải chăng anh đã yêu em từ cái nhìn đầu tiên ',
+    title: 'Phải chăng anh đã yêu em từ cái nhìn đầu tiên  ',
     desc: 'Phải chăng anh đã yêu em từ lúc thấy nụ cười ấy ',
     btnYes: 'Yêu anh',
     btnNo: 'Hông yêu',
