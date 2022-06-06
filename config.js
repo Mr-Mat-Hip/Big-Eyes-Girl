@@ -4,7 +4,7 @@ const CONFIG = {
     introDesc: `Yêu một người không khó
     Vì chẳng cần lí do
     Bao tình cảm của anh
-    Chỉ dành cho em`,
+    Chỉ dành cho em đó`,
     btnIntro: 'Love You',
     title: 'Phải chăng anh đã yêu em từ cái nhìn đầu tiên ',
     desc: 'Phải chăng anh đã yêu em từ lúc thấy nụ cười ấy ',
