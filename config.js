@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Anh biết mà . Làm bạn gái anh nhé',
     messDesc: 'Big-Eyes Girl',
     btnAccept: 'Em đồng ý',
-messLink: 'https://mr-mat-hip.github.io/big-eyes-girl/'
+messLink: 'https://www.facebook.com/manhtuanbui91/'
 }
