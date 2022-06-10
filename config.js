@@ -16,4 +16,4 @@ const CONFIG = {
     mess: 'Anh biết mà . Làm bạn gái anh nhé',
     messDesc: 'Big-Eyes Girl',
     btnAccept: 'Em đồng ý',
-}
+https://mr-mat-hip.github.io/big-eyes-girl/}
